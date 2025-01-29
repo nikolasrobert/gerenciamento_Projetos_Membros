@@ -1,0 +1,4 @@
+101, Sistema de Gestão Escolar, Ssistema para gerenciar alunos, turmas e notas.  
+102, Aplicativo de Delivery, Aapp para facilitar pedidos e entregas de comida.  
+103, Plataforma EAD, Plataforma online para cursos e treinamentos.  
+104, Controle de Estoque, Software para monitoramento de produtos em armazéns.
